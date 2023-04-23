@@ -18,6 +18,17 @@ L3-фабрика или IP-фабрика — потрясающее изобр
 
 Задание 2
 # Ответ
+ВМ yandexCloud
+
+![yandex vm](https://user-images.githubusercontent.com/109212419/233840856-e08b8bd5-31b1-4aab-8525-41f20f94bd87.jpg)
+
+Инициализация manager
+
+![initialase manager1 like manage node](https://user-images.githubusercontent.com/109212419/233840874-d993c10d-5cf5-4d14-95b7-61cc69a338a0.jpg)
+
+Присоединение workers
+
+![join workers on claster](https://user-images.githubusercontent.com/109212419/233840891-33852f1c-6553-436a-89d5-bd8ebd645c7f.jpg)
 
 ![tack 2 docker node ls](https://user-images.githubusercontent.com/109212419/233840451-74519d1f-b7dc-4279-b853-bb0e0e8b075a.jpg)
 
