@@ -41,3 +41,21 @@ services:
       - db
     deploy:
       replicas: 1
+      update_config:
+        parallelism: 2
+        delay: 10s
+  
+  vizualizer:
+    image: dockersamples/visualizer:stable
+    ports:
+      - "8080:8080"
+    stop_grace_poriod: 1m30s
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock"
+
+networks:
+  frontend:
+  backend:
+
+volumes:
+  db_data:
