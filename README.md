@@ -23,4 +23,4 @@ L3-фабрика или IP-фабрика — потрясающее изобр
 
 ![docker service ls](https://user-images.githubusercontent.com/109212419/233840465-f97b522d-f544-4953-b650-6fdfca081113.jpg)
 
-![Docker-compose.yml]()
+![Docker-compose.yml](https://github.com/ALEMOLOKOV/5.5_Docker_Swarm_Aleksandr_Molokov/blob/e9ed3c38aaea3838906bf35b3499ca20c5a71785/docker-compose.yml)
